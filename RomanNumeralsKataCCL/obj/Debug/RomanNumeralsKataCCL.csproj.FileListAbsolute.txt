@@ -1,4 +1,0 @@
-C:\Users\Peter\Dropbox\Sandbox\RomanNumeralsKataCCL\RomanNumeralsKataCCL\bin\Debug\RomanNumeralsKataCCL.dll
-C:\Users\Peter\Dropbox\Sandbox\RomanNumeralsKataCCL\RomanNumeralsKataCCL\bin\Debug\RomanNumeralsKataCCL.pdb
-C:\Users\Peter\Dropbox\Sandbox\RomanNumeralsKataCCL\RomanNumeralsKataCCL\obj\Debug\RomanNumeralsKataCCL.dll
-C:\Users\Peter\Dropbox\Sandbox\RomanNumeralsKataCCL\RomanNumeralsKataCCL\obj\Debug\RomanNumeralsKataCCL.pdb
